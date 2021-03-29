@@ -41,7 +41,7 @@ export const CertificateListQuery = graphql`
 							childImageSharp {
                 gatsbyImageData(
                   layout: CONSTRAINED
-                  width: 300
+                  width: 400
                   height: 250
                 )
 							}

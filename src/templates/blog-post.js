@@ -87,7 +87,6 @@ const Post = ({ data, pageContext }) => {
             <h1>{frontmatter.title}</h1>
             <time>{frontmatter.date}</time>
           </section>
-          <div style= {{ display: 'block', marginLeft: "35%", marginRight: "35%"}}>
           {Image ? (
             <GatsbyImage
               image={Image}
@@ -95,7 +94,6 @@ const Post = ({ data, pageContext }) => {
               className="featured-image"
             />
           ) : ""}
-          </div>
         </header>
         
         <div
