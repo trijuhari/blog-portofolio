@@ -87,7 +87,7 @@ const Post = ({ data, pageContext }) => {
             <h1>{frontmatter.title}</h1>
             <time>{frontmatter.date}</time>
           </section>
-          <div style= {{ display: 'block', marginLeft: "300px", marginRight: "300px"}}>
+          <div style= {{ display: 'block', marginLeft: "30%", marginRight: "30%"}}>
           {Image ? (
             <GatsbyImage
               image={Image}
