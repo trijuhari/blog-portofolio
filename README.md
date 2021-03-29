@@ -1,23 +1,21 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/63521b78-612e-4a2f-a409-3fa8009e7f3b/deploy-status)](https://app.netlify.com/sites/frosty-perlman-9da1cb/deploys) &nbsp;<a href="https://twitter.com/intent/follow?screen_name=stackrole">
-  <img src="https://img.shields.io/twitter/follow/stackrole.svg?label=Follow%20@Stackrole" alt="Follow @stackrole" />
-</a>
+ 
 
-# Foundation
+## 🚀 Blog Portofolio
 
-A starter to launch your blazing fast personal website and a blog, Built with [Gatsby][gatsby] and [Netlify CMS][netlifyCMS].
+A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stackrole/gatsby-starter-foundation)
-
-Need help launching your website? My DM's are open on <a href="https://twitter.com/stackrole">twitter</a>
-
-[![Gatsby Starter Foundation Screenshot](static/assets/gatsby-starter-foundation-light-mode.jpg)](https://stackrole.com/jamstack/foundation/)
-
+ 
+ 
+ 
 ## 👌 Features
 - A Blog and Personal website with Netlify CMS.
 - Responsive Web Design
 - Dark / Light Mode
 - Customize content of Homepage, About and Contact page.
 - Add / Modify / Delete blog posts.
+- Add / Modify / Delete portofolio posts.
+- Add / Modify / Delete certificate posts.
+
 - Edit website settings, Add Google Analytics and make it your own all with in the CMS.
 - SEO Optimized
 - Social media icons
@@ -27,14 +25,6 @@ Need help launching your website? My DM's are open on <a href="https://twitter.c
 - Netlify Contact Form, Works right out of the box after deployment.
 - Invite collaborators into Netlify CMS, without giving access to your Github account via Git Gateway
 - Gatsby Incremental Builds with Netlify.
-
-
-[![Gatsby Starter Foundation Screenshot](static/assets/gatsby-starter-foundation-dark-mode.jpg)](https://foundation.stackrole.com)
-
-## 🚀 Quick Deploy
-Just click on the **Deploy to Netlify** button.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stackrole/gatsby-starter-foundation)
 
 This would fork `gatsby-starter-foundation` to your Github account and start building your website on [Netlify](https://netlify.com). Once the deployment is done. Your website will be live and website address would look like **site-name.netlify.app**
 
@@ -141,16 +131,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 
 ## 🙏 Thank you
-We really appreciate you taking time to build your website with our `gatsby-starter-foundation`. 
-
-I would love to get your feedback and contributions. 
-
-Feel free to ping [@stackrole](stackrole) for help regarding your JAMstack website, our DM's are open. And do not forget to share you website with me 😊
-
-[![Check out Stackrole.com - A Jamstack marketplace](static/assets/twitter-header.jpg)](https://stackrole.com)
-
-[gatsby]: https://gatsbyjs.org
-[netlifyCMS]: https://www.netlifycms.org
-[stackrole]: https://stackrole.com
-[twitter]: https://twitter.com/stackrole
-[custom-domain]: https://stackrole.com/adding-custom-domain-netlify
+Thank you for Stackrole for creating Foundation template using Gatsby, 
+[source](https://github.com/stackrole/gatsby-starter-foundation)
+ 

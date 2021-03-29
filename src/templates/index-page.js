@@ -23,8 +23,8 @@ export const pageQuery = graphql`
           childImageSharp {
             gatsbyImageData(
               layout: CONSTRAINED
-              width: 585
-              height: 439
+              width: 400
+              height: 400 
             )
           }
         }
@@ -119,7 +119,7 @@ const HomePage = ({ data }) => {
             {sIcons}
           </div>
         </div>
-        <div>
+        <div style ={{ marginLeft: '10%'}}>
           {Image ? (
             <GatsbyImage
               image={Image}

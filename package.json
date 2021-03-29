@@ -2,7 +2,7 @@
   "name": "@stackrole/gatsby-starter-foundation",
   "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
   "version": "2.0.0",
-  "author": "Stackrole <stackrole@gmail.com>",
+  "author": "Tri Juhari",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -48,6 +48,5 @@
     "react-icons": "^3.11.0",
     "theme-ui": "^0.3.5"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }

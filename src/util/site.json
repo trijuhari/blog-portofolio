@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Tri Juhari",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "I'm a Data Enthusiast with a passion for turning data into actionable insights, and meaningful stories. Right from the data extraction till the final data product or actionable insights, I enjoy the journey with the data",
+    "siteUrl": "https://www.linkedin.com/in/tri-juhari-294770131/",
+    "image": "/assets/png.png",
+    "iconimage": "/assets/logosite.png",
+    "twitterUsername": "@hirazone"
   },
   "ga": "UA-XXXXXXXXX-X"
 }

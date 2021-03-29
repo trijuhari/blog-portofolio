@@ -1,11 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Hello, I'm Tri Juhari
+tagline: Software Engineer, Data Enthusiast
+featuredImage: /assets/png.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I'm a Data Enthusiast with a passion for turning data into actionable insights, and meaningful stories. Right from the data extraction till the final data product or actionable insights, I enjoy the journey with the data.
+
