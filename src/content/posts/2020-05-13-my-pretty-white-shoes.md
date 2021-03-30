@@ -1,5 +1,5 @@
 ---
-template: blog-post
+template: portofolio-post
 title: Extreme gaming extravaganza
 slug: /gaming-extravaganza
 date: 2020-05-13 12:55
