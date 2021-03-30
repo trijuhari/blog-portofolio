@@ -1,8 +1,9 @@
 ---
 template: certificate-post
-title: IBM Data Science Professional 
-slug: /data-science
-date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/Professional_Certificate_-_Data_Science.png
- 
+title: Applied Data Science Capstone
+slug: https://www.coursera.org/account/accomplishments/certificate/WRWJJWPWJKPA
+date: 2021-03-01 12:46
+description: Applied Data Science Capstone
+featuredImage: /assets/coursera.jpg
+---
+a
