@@ -81,7 +81,7 @@ const Post = ({ data, pageContext }) => {
         image={Image}
         article={true}
       />
-      <article className="portofolio-post">
+      <article className="blog-post">
         <header className="featured-banner">
           <section className="article-header">
             <h1>{frontmatter.title}</h1>
@@ -90,6 +90,7 @@ const Post = ({ data, pageContext }) => {
           
           {Image ? (
             <GatsbyImage
+            
               image={Image}
               alt={frontmatter.title + " - Featured image"}
               className="featured-image"

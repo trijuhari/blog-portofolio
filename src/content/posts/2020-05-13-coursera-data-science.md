@@ -6,4 +6,6 @@ date: 2021-03-01 12:46
 description: Applied Data Science Capstone
 featuredImage: /assets/coursera-rebrand-logo-square.png
 ---
-<https://www.coursera.org/account/accomplishments/certificate/WRWJJWPWJKPA>
+
+### **Link Certificate:**
+**<https://www.coursera.org/account/accomplishments/certificate/WRWJJWPWJKPA>**

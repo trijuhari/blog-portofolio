@@ -41,8 +41,8 @@ export const blogListQuery = graphql`
 							childImageSharp {
                 gatsbyImageData(
                   layout: CONSTRAINED
-                  width: 645
-                  height: 560
+                  width: 300
+                  height: 220
                 )
 							}
 						}

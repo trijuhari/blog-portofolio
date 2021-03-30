@@ -81,13 +81,13 @@ const Post = ({ data, pageContext }) => {
         image={Image}
         article={true}
       />
-      <article className="certificate-post">
-        <header className="featured-banner">
+      <article className="blog-post">
+        <header className="featured-banner" >
           <section className="article-header">
             <h1>{frontmatter.title}</h1>
             <time>{frontmatter.date}</time>
           </section>
-          <div style= {{ display: 'block', marginLeft: "30%", marginRight: "30%"}}>
+          <div style= {{ width:"300px", height:"300px", display:"block",marginRight:"auto", marginLeft:"auto" }}>
           {Image ? (
             <GatsbyImage
               image={Image}
@@ -101,6 +101,7 @@ const Post = ({ data, pageContext }) => {
         <div
           className="certificate-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
+          
         />
       </article>
       {(previous || next) && (

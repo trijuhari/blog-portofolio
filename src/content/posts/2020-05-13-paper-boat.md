@@ -24,10 +24,8 @@ Layanan GCP dibagi ke dalam beberapa kelompok diantaranya :
 
 1. Computing
 
-
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
 ![](https://cdn-images-1.medium.com/max/800/1*qDLPnwGtqnqVZdGatVPN5w.png#center)
-</div>
+
  
 [App Engine](https://cloud.google.com/appengine) : Membantu developer dalam membuat aplikasi yang sangat skalabel karena app engine ini menerapkan dukungan serverless yang yang terkelola sepenuhnya. App engine didukung oleh bahasa pemrograman yang populer seperti Node.js, Java, Ruby, C#, Go, Python, atau PHP.
 
