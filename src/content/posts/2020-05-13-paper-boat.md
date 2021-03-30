@@ -10,7 +10,7 @@ description: GCP merupakan sebuah layanan cloud computing yang yang dikembangkan
   pembayaran ini adalah kita hanya membayar layanan yang kita gunakana saja,
   jadi tidak akan ada biaya penghentian selain itu harganya pun bervariasi
   berdasarkan produk dan penggunaannya.
-featuredImage: /assets/1__omj_multza03_sf6vh1ja.png
+featuredImage: ""
 ---
 <!--StartFragment-->
 
