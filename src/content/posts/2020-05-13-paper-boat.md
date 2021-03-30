@@ -1,31 +1,47 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
+title: Google Cloud Platform (GCP)
+slug: /gcp
 date: 2020-05-23 23:40
-description: How to draw a character
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+description: GCP merupakan sebuah layanan cloud computing yang yang dikembangkan
+  oleh Google. GCP sendiri terdiri atas beberapa layanan diantaranya Computing,
+  Storage & Database, Big Query, Network, Cloud & AI. Google Cloud platform
+  menerapkan skema pembayaran secara “Pay as you go” , maksud dari skema
+  pembayaran ini adalah kita hanya membayar layanan yang kita gunakana saja,
+  jadi tidak akan ada biaya penghentian selain itu harganya pun bervariasi
+  berdasarkan produk dan penggunaannya.
+featuredImage: /assets/1__omj_multza03_sf6vh1ja.png
 ---
-In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
+<!--StartFragment-->
 
-Model sheets are required when [multiple artists](https://example.com) are involved in the production of an animated film, game, or comic to help maintain continuity in characters from scene to scene. In animation, one animator may only do one shot out of the several hundred that are required to complete an animated feature film. A character not drawn according to the production's standardized model is referred to as off-model.
+### Google Cloud Platform (GCP)
 
-## For one beautiful night I knew what it was like to be a grandmother. Subjugated, yet honored.
+Halo semua, pada kesempatan kali ini saya ingin berbagi insight mengenai layanan Cloud yang dimiliki oleh Google yaitu Google Cloud Platform atau disingkat GCP.Google Cloud Platform
 
-Yes! In your face, Gandhi! Ah, yes! John Quincy Adding Machine. He struck a chord with the voters when he pledged not to go on a killing spree. What are their names? I could if you hadn't turned on the light and shut off my stereo.
+Mungkin banyak yang belum tahu apa itu layanan Google Cloud Platform atau GCP. Jadi GCP merupakan sebuah layanan cloud computing yang yang dikembangkan oleh Google. GCP sendiri terdiri atas beberapa layanan diantaranya Computing, Storage & Database, Big Query, Network, Cloud & AI. Google Cloud platform menerapkan skema pembayaran secara “Pay as you go” , maksud dari skema pembayaran ini adalah kita hanya membayar layanan yang kita gunakana saja, jadi tidak akan ada biaya penghentian selain itu harganya pun bervariasi berdasarkan produk dan penggunaannya.
 
-1. Robot 1-X, save my friends! And Zoidberg!
-2. Soon enough.
-3. There's no part of that sentence I didn't like!
+Layanan GCP dibagi ke dalam beberapa kelompok diantaranya :
 
-### The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep.
+1. Computing
 
-Why am I sticky and naked? Did I miss something fun? We're also Santa Claus! Soothe us with sweet lies. Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute.
+![](https://cdn-images-1.medium.com/max/800/1*qDLPnwGtqnqVZdGatVPN5w.png)
 
-* That could be 'my' beautiful soul sitting naked on a couch. If I could just learn to play this stupid thing.
-* We'll need to have a look inside you with this camera.
-* Fry! Quit doing the right thing, you jerk!
+[App Engine](https://cloud.google.com/appengine) : Membantu developer dalam membuat aplikasi yang sangat skalabel karena app engine ini menerapkan dukungan serverless yang yang terkelola sepenuhnya. App engine didukung oleh bahasa pemrograman yang populer seperti Node.js, Java, Ruby, C#, Go, Python, atau PHP.
 
-Who said that? SURE you can die! You want to die?! Aww, it's true. I've been hiding it for so long. I videotape every customer that comes in here, so that I may blackmail them later. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
+[Compute Engine](https://cloud.google.com/compute) : Layanan komputasi yang aman dan dapat disesuaikan sesuai kebutuhan yang memungkinkan kita membuat dan menjalankan virtual mechine di infrastruktur google.
 
-Spare me your space age technobabble, Attila the Hun! We'll go deliver this crate like professionals, and then we'll go home. Aww, it's true. I've been hiding it for so long. Moving along… Please, Don-Bot… look into your hard drive, and open your mercy file!
+[Kubernutes Engine](https://cloud.google.com/kubernetes-engine) : Layanan Kubernetes yang aman dan terkelola sepenuhnya dengan mode operasi autopilot revolusioner dengan kecepatan proses yang begitu cepat dengan cluster satu klik dan melakukan skala hingga 15.000 node.
+
+2. Storage
+
+
+
+![](https://cdn-images-1.medium.com/max/800/1*3qOtEYPDQFBK7G5eX-dmAg.png)
+
+[Filestore](https://cloud.google.com/filestore) :Penyimpanan file berperforma tinggi dan terkelola sepenuhnya. Pengelolaan sepenuhnya network attached storage (NAS) untuk Compute Engine dan GKE instance, selain itu memungkinkan Harga yang dapat diprediksi berdasarkan performa dan mampu melakukan beban kerja berperforma tinggi dengan skala hingga 100 TB.
+
+[Cloud Storage ](https://cloud.google.com/storage/): Penyimpanan awan yang dapat digunakan perusahaan dari semua ukuran perusahaan besar atau perusahaan rintisan.Cloud storage dapat menyimpan data dalam jumlah berapa pun. Penyimpanan tidak terbatas tanpa ukuran objek minimum. Memiliki Aksesibilitas di seluruh dunia dan lokasi penyimpanan di seluruh dunia. Latensi rendah dan memiliki daya tahan tinggi (99.999999999% daya tahan tahunan) serta mendukung Geo-redundansi jika data disimpan di multi-region atau dual-region.
+
+[Data Transfer](https://cloud.google.com/products/data-transfer) : Google menawarkan solusi untuk memenuhi kebutuhan transfer data unik dan mendapatkan data di cloud dengan cepat dan aman.
+
+<!--EndFragment-->
