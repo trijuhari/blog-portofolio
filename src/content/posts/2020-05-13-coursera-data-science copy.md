@@ -1,7 +1,7 @@
 ---
 template: certificate-post
 title: Google Cloud Platform Big Data and Machine Learning Fundamentals
-slug: /GCP
+slug: /gcp-bigdata
 date: 2021-03-01 12:46
 description: Google Cloud Platform Big Data and Machine Learning Fundamentals
 featuredImage: /assets/coursera-rebrand-logo-square.png
