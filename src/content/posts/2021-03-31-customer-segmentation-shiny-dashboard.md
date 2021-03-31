@@ -7,7 +7,8 @@ description: Customer Segmentation Shiny Dashboard
 featuredImage: /assets/custsegment.png
 ---
 ![](/assets/custsegment1.png)
+ <h3 align="center">More details can be seen on the site below</h1>
 
-### More details can be seen on the site below
-
-### <https://tri-juhari.shinyapps.io/custsegment/>
+<center>
+https://tri-juhari.shinyapps.io/custsegment/
+</center>
