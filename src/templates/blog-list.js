@@ -118,7 +118,7 @@ class BlogIndex extends React.Component {
           description={"Stackrole base blog page " + currentPage + " of " + numPages }
         />
         <h1>Blog</h1>
-        <div className="grids col-1 sm-2 lg-3">
+        <div className="grids col-1 sm-2 lg-7">
           {posts}
         </div>
         <Pagination {...props} />
