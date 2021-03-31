@@ -8,6 +8,6 @@ featuredImage: /assets/custsegment.png
 ---
 ![](/assets/custsegment1.png)
 
-### **Link Project** 
+### More details can be seen on the site below
 
 ### <https://tri-juhari.shinyapps.io/custsegment/>
