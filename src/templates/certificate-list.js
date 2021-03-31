@@ -41,7 +41,7 @@ export const CertificateListQuery = graphql`
 							childImageSharp {
                 gatsbyImageData(
                   layout: CONSTRAINED
-                  width: 300
+                  width: 330
                   height: 220
                 )
 							}
@@ -118,7 +118,7 @@ class BlogIndex extends React.Component {
           description={"Tri Juhari base certificate page " + currentPage + " of " + numPages }
         />
         <h1>Certificate</h1>
-        <div className="grids col-1 sm-2 lg-7">
+        <div className="grids col-1 sm-2 lg-3">
           {posts}
         </div>
         <Pagination {...props} />

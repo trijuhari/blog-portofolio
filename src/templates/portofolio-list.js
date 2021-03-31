@@ -41,8 +41,8 @@ export const PortofolioListQuery = graphql`
 							childImageSharp {
                 gatsbyImageData(
                   layout: CONSTRAINED
-                  width: 345
-                  height: 260
+                  width: 330
+                  height: 220
                 )
 							}
 						}
@@ -118,7 +118,7 @@ class BlogIndex extends React.Component {
           description={"Tri Juhari base portofolio page " + currentPage + " of " + numPages }
         />
         <h1>Portofolio</h1>
-        <div className="grids col-1 sm-2 lg-6">
+        <div className="grids col-1 sm-2 lg-3">
           {posts}
         </div>
         <Pagination {...props} />
