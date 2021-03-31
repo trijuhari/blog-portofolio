@@ -6,6 +6,8 @@ date: 2021-03-31 09:10
 description: Customer Segmentation Shiny Dashboard
 featuredImage: /assets/custsegment.png
 ---
-
-
 ![](/assets/custsegment1.png)
+
+### **Link Project** 
+
+### <https://tri-juhari.shinyapps.io/custsegment/>
