@@ -6,4 +6,24 @@ date: 2021-03-31 09:10
 description: Customer Segmentation Shiny Dashboard
 featuredImage: ""
 ---
-<embed type="text/html" src="https://tri-juhari.shinyapps.io/custsegment/" width="100%" height="100%">
+<style>
+Demo
+
+html, body {
+    height:100%;
+    width:100%;
+    margin:0;
+}
+.h_iframe iframe {
+    width:100%;
+    height:100%;
+}
+.h_iframe {
+    height: 100%;
+    width:100%;
+}
+</style>
+<div class="h_iframe">
+    <iframe src="https://tri-juhari.shinyapps.io/custsegment/" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+
