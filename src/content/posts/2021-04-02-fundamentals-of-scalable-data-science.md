@@ -1,7 +1,7 @@
 ---
 template: certificate-post
 title: Fundamentals of Scalable Data Science
-slug: /ds
+slug: /fundamentals-DS
 date: 2021-04-02 15:23
 description: Fundamentals of Scalable Data Science
 featuredImage: /assets/coursera-rebrand-logo-square.png
