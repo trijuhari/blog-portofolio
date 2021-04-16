@@ -1,6 +1,6 @@
 ---
 template: portofolio-post
-title: "Traveloka Customer Analysis  & Segmentation  "
+title: "Customer  Churn Analysis  & Segmentation  "
 slug: /data-portofolio-traveloka
 date: 2021-04-10 12:23
 description: " Traveloka Customer Segmentation Shiny Dashboard"
