@@ -7,7 +7,3 @@ description: " Traveloka Customer Segmentation Shiny Dashboard"
 featuredImage: /assets/screencapture-tri-juhari-shinyapps-io-traveloka-2021-04-10-12_25_37.png
 ---
 ![](/assets/screencapture-tri-juhari-shinyapps-io-traveloka-2021-04-10-12_26_53.png)
-
-**Link this site:**
-
-**[https://tri-juhari.shinyapps.io/Traveloka/](https://tri-juhari.shinyapps.io/custsegment/)**
