@@ -1,7 +1,7 @@
 ---
 template: portofolio-post
 title: Data Modeling With PostgresSQL
-slug: /blog-portofolio
+slug: /data-modeling-postgresql
 date: 2021-07-27 12:49
 description: Data Modeling With PostgresSQL
 featuredImage: /assets/sparkifydb.png
