@@ -14,6 +14,8 @@ To successfully complete this course, four mentor reviewed projects are required
 
 ## [Welcome to the Program](#)
 
+
+
 Introduction to the program about where and how basic  machine learning applies to a variety of industries. Core Curriculum  include **AWS Machine Learning Foundations Course** and **AWS Machine Learning Foundations Assessment Quiz**
 
 ## [AWS Machine Learning Foundations Course ](https://trijuhari.netlify.app/Introduction-to-ML)
