@@ -32,18 +32,15 @@ The initial stages that must be completed by students and their contents are rel
 
 Asessment for have  finished this course.
 
-- - -
+ 
 
-## Certificate of Completion
+ 
 
-> On going
+ 
+## [Full Article](https://trijuhari.github.io/AWS-Machine-Learning-Foundations-Course/Introduction-to-ML/)
 
-## Full Article (Click Image Below)
-
-[![Article](https://i.imgur.com/LpZO9JZ.png "Article")](https://trijuhari.github.io/AWS-Machine-Learning-Foundations-Course/)
-
-- - -
+ 
 
 **Acknowledgement**
 
-Thanks to :raised_hands: [Udacity](https://www.udacity.com/) :raised_hands: for providing this [scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program?bsft_aaid=affd8710-61ff-4001-baca-1d4a7303381d&bsft_eid=59a6d0dc-022b-038c-1ead-ac8a1d641e03&utm_campaign=sch_600_2021-06-15_ndxxx_aws-ml-last-chance_global&utm_source=blueshift&utm_medium=email&bsft_clkid=cb58e060-c41a-4d5f-bb88-5f9a9eb10f46&bsft_uid=7d94fe45-ff81-4eb8-bf71-a3aaebb76ea6&bsft_mid=1e27940e-306b-453a-8919-2943cbca92ff&bsft_mime_type=html&bsft_ek=2021-06-18T22%3A02%3A25Z&bsft_lx=2&bsft_tv=32) :tada: course.
+Thanks to [Udacity](https://www.udacity.com/) for providing this [scholarship](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program?bsft_aaid=affd8710-61ff-4001-baca-1d4a7303381d&bsft_eid=59a6d0dc-022b-038c-1ead-ac8a1d641e03&utm_campaign=sch_600_2021-06-15_ndxxx_aws-ml-last-chance_global&utm_source=blueshift&utm_medium=email&bsft_clkid=cb58e060-c41a-4d5f-bb88-5f9a9eb10f46&bsft_uid=7d94fe45-ff81-4eb8-bf71-a3aaebb76ea6&bsft_mid=1e27940e-306b-453a-8919-2943cbca92ff&bsft_mime_type=html&bsft_ek=2021-06-18T22%3A02%3A25Z&bsft_lx=2&bsft_tv=32)  course.
