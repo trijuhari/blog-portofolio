@@ -14,8 +14,6 @@ To successfully complete this course, four mentor reviewed projects are required
 
 ## Welcome to the Program
 
-
-
 Introduction to the program about where and how basic  machine learning applies to a variety of industries. Core Curriculum  include **AWS Machine Learning Foundations Course** and **AWS Machine Learning Foundations Assessment Quiz**
 
 ## AWS Machine Learning Foundations Course
@@ -40,10 +38,9 @@ Asessment for have  finished this course.
 
 > On going
 
-## Source 
-[![Article](https://i.imgur.com/LpZO9JZ.png "Article")][ss1]
+## Full Article (Click Image Below)
 
-[ss1]: https://trijuhari.github.io/AWS-Machine-Learning-Foundations-Course/
+[![Article](https://i.imgur.com/LpZO9JZ.png "Article")](https://trijuhari.github.io/AWS-Machine-Learning-Foundations-Course/)
 
 - - -
 
