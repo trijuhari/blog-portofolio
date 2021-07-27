@@ -107,13 +107,11 @@ python create_tables.py
 python etl.py 
 ```
 
-## Source :
+## Source
 
-[![Day calendar](https://github.com/trijuhari/Data-Modelling-Postgres/blob/master/github_badge.png?raw=true "Day calendar")][ss1]
+![](/assets/github_badge.png)
 
-[ss1]: https://github.com/trijuhari/Data-Modelling-Postgres
- 
-#### Reference:
+## Reference:
 
 [Psycopg](http://initd.org/psycopg/docs/)
 
