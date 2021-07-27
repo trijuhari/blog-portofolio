@@ -4,13 +4,17 @@ title: Data Visualization and Analytics With PostgresSQL  Olympics Dataset
 slug: /data-visualization-postgresql-olympics
 date: 2021-07-27 17:05
 description: Data Visualization and Analytics With PostgresSQL  Olympics Dataset
-featuredImage: https://miro.medium.com/max/1400/0*KrwxIMnEDn9vxxFn.jpg
+featuredImage: /assets/0_krwximnedn9vxxfn.jpg
 ---
 # 🚀Data Visualization and Analytics With PostgresSQL  Olympics Dataset
 
-![](https://github.com/trijuhari/Athlete_Olympics_Visualization/raw/master/figures/num_athlete_count_overtime.png)
-![](https://github.com/trijuhari/Athlete_Olympics_Visualization/raw/master/figures/number_athlete_per_sport.png)
-![](https://github.com/trijuhari/Athlete_Olympics_Visualization/raw/master/figures/age_distribution_of_medalists.png) 
+![](/assets/num_athlete_count_overtime.png)
+
+![](/assets/most_medal_usa.png)
+
+![](/assets/age_distribution_of_medalists.png)
+
+![](/assets/gymnastics_athletic_build_by_country_scatterplot.png)
 
 ## **Overview**
 
@@ -22,4 +26,4 @@ All code is available in the notebook entitled `olympic-exploration.ipynb`. Note
 
 ## **Source Code**
 
-[![https://imgur.com/kCXzchz.png](https://imgur.com/kCXzchz.png)](https://github.com/trijuhari/Athlete_Olympics_Visualization)
+![](/assets/kcxzchz.png)
