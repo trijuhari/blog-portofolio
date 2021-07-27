@@ -12,13 +12,13 @@ This Udacity  scholarship program aims to develop foundational about machine lea
 
 To successfully complete this course, four mentor reviewed projects are required and one must satisfy the project's rubric.
 
-## [Welcome to the Program](#)
+## Welcome to the Program
 
 
 
 Introduction to the program about where and how basic  machine learning applies to a variety of industries. Core Curriculum  include **AWS Machine Learning Foundations Course** and **AWS Machine Learning Foundations Assessment Quiz**
 
-## [AWS Machine Learning Foundations Course ](https://trijuhari.netlify.app/Introduction-to-ML)
+## AWS Machine Learning Foundations Course
 
 The initial stages that must be completed by students and their contents are related to the basic introduction and tips and tricks, and are required to join the community in Slack.
 &nbsp;
@@ -30,15 +30,20 @@ The initial stages that must be completed by students and their contents are rel
 > * You are required to complete all the lessons and go through all the concepts in this program.
 > * You are required to take an assessment from which top performers will be selected for one of 425 full scholarships for the AWS Machine Learning Engineer Nanodegree program.  
 
-## [AWS Machine Learning Foundations Assessment ](https://trijuhari.netlify.app/Asessment-coure)
+## AWS Machine Learning Foundations Assessment
 
 Asessment for have  finished this course.
 
 - - -
 
-## [Certificate of Completion](https://confirm.udacity.com/DCPLKGXW)
+## Certificate of Completion
 
 > On going
+
+## Source 
+[![Article](https://i.imgur.com/LpZO9JZ.png "Article")][ss1]
+
+[ss1]: https://trijuhari.github.io/AWS-Machine-Learning-Foundations-Course/
 
 - - -
 
